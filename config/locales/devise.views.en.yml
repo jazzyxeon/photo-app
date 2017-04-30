@@ -13,7 +13,7 @@ en:
       user: User
   devise:
     confirmations:
-      confirmed: Your email address has been successfully confirmed.
+      confirmed: Your account has been successfully confirmed.
       new:
         resend_confirmation_instructions: Resend confirmation instructions
       send_instructions: You will receive an email with instructions for how to confirm your email address in a few minutes.
